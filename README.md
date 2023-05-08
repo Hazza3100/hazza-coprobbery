@@ -10,7 +10,7 @@ Hazza Cop Robbery is a lightweight FiveM script using qb-core that allows player
 
 ![Screenshot](preview2.png)
 
-Preview is cop perspective, so you can see the alert
+*Preview is cop perspective, so you can see the alert*
 
 # Docs
 
