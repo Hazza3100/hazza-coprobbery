@@ -6,6 +6,7 @@
 Hazza Cop Robbery is a lightweight FiveM script using qb-core that allows players to rob cops from random locations with configurable settings for rewards and cooldowns. 
 
 # Preview
+![Screenshot](preview.png)
 
 # Docs
 
