@@ -69,3 +69,6 @@ We hope you enjoy using Hazza Cop Robbery and that it adds an exciting new eleme
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 
+
+
+[![HitCount](https://hits.dwyl.com/hazza3100/hazza-coprobbery.svg?style=flat-square)](http://hits.dwyl.com/hazza3100/hazza-coprobbery)
